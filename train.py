@@ -119,3 +119,4 @@ if __name__ == '__main__':
     ax.legend()
     plt.savefig('benchmark.png')  # Lưu biểu đồ vào file 'benchmark.png'
     plt.show()
+
